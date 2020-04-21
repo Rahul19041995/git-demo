@@ -2,10 +2,6 @@
 
 This is the first file of Git
 
-## Ipsum Below
+## Website Content
 
-Learn the key concepts and basic workflow for Git and GitHub with this easy to follow, top rated, bootcamp-style course
-
-### More line of code
-
-This the extra code
+1.index.html
